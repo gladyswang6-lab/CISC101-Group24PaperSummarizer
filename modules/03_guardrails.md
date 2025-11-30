@@ -1,5 +1,5 @@
 ### Module 3: Guardrails
-- **Missing/Empty Sections**: Issue warnings.
-- **Short Sections (<50 words)**: Flag for review.
-- **Hallucination Mitigation**: Summaries must remain faithful to source text.
-- **Long-Paper Chunking**: Apply PS2 context-window strategies to handle extended text.
+- **Missing/Empty Sections:** Flag and report.  
+- **<50-word Sections:** Flag as insufficient.  
+- **Hallucination Mitigation:** Summaries must only reflect actual paper content.  
+- **Long-Paper Chunking (PS2 Context-Window Strategy):** Break text into manageable chunks before summarization.
