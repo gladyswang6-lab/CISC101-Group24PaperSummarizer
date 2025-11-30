@@ -1,4 +1,6 @@
 ### Module 2: Section Loop
-- Iterate through each section sequentially.
-- Summarize content within 150 words.
-- Apply constraint checks (length, accuracy, no hallucinations).
+- For each section:
+  - Extract text.
+  - Summarize in ≤ 150 words.
+  - Apply constraint checks (tone, terminology, length).
+  - Store in Section-by-Section Table.
