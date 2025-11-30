@@ -1,4 +1,5 @@
-### Module 3: Guardrails
+ **Change Log entry**: added strict mode for furthuer hallucination mitigation. 
+ ### Module 3: Guardrails
 - **Missing/Empty Sections**: Issue warnings.
 - **Short Sections (<50 words)**: Flag for review.
 - **Hallucination Mitigation**: Summaries must remain faithful to source text.
